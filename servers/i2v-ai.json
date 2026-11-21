@@ -1,0 +1,9 @@
+{
+  "name": "I2v.ai",
+  "url": "https://github.com/i2v-ai/i2v-mcp",
+  "category": "media",
+  "transport": "http",
+  "description": "Official server for 12 image and 16 video generation models: list models, estimate cost, submit jobs with a capped `maxCostUsd` and an `idempotencyKey`, then poll results. Remote Streamable HTTP with OAuth 2.1 or API key; local stdio via `npx -y @i2v-ai/cli mcp` with `I2V_API_KEY`; MIT. Endpoint: `https://i2v.ai/api/mcp` · [Docs](https://i2v.ai/docs/mcp) · Registry: `io.github.i2v-ai/mcp`",
+  "endpoint": "https://i2v.ai/api/mcp",
+  "registry": "io.github.i2v-ai/mcp"
+}
